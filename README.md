@@ -27,6 +27,17 @@ MYSQL_DBNAME = 'meituan'
 MYSQL_USER = 'root'
 MYSQL_PASSWORD = '1234566'
 ```
+- KEY设置
+```python
+GAODE_API_KEY = ''
+```
+
+- 爬取城市设置
+```python
+city_name = '广州市'
+```
+
+
 
 ## 运行
 ```python
