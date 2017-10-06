@@ -88,18 +88,17 @@ scrapy crawl meituan
 ```
 
 ### 数据展示
-
-符合要求的坐标：<br> 
-![](http://upload-images.jianshu.io/upload_images/6926359-04bb6e5729c50a48.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<br>
 <br>
 <br>
 共抓取了广州市范围内6378家商家简单信息：<br>
  ![](http://upload-images.jianshu.io/upload_images/6926359-02003ea088f5366e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<br>
  <br>
  <br>
+ <br>
 商家散点图：<br>
 ![](http://upload-images.jianshu.io/upload_images/6926359-d9f27d3f5bfe0c32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) <br>
-  
+ <br>
+ <br> 
 ### 注意事项
 - 程序仅供学习之用，请下载24小时内删除
 - 程序已设置适当延迟，请合理使用
