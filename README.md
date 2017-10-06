@@ -78,14 +78,14 @@ scrapy crawl meituan
 
 ### 数据展示
 
-符合要求的坐标：
-  ![](http://upload-images.jianshu.io/upload_images/6926359-04bb6e5729c50a48.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-共抓取了广州市范围内6378家商家简单信息：
-  ![](http://upload-images.jianshu.io/upload_images/6926359-02003ea088f5366e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-符合要求的坐标：
-  ![](http://upload-images.jianshu.io/upload_images/6926359-04bb6e5729c50a48.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-商家散点图：
-  ![](http://upload-images.jianshu.io/upload_images/6926359-d9f27d3f5bfe0c32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+符合要求的坐标：<\b>
+  ![](http://upload-images.jianshu.io/upload_images/6926359-04bb6e5729c50a48.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<\b>
+共抓取了广州市范围内6378家商家简单信息：<\b>
+  ![](http://upload-images.jianshu.io/upload_images/6926359-02003ea088f5366e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<\b>
+符合要求的坐标：<\b>
+  ![](http://upload-images.jianshu.io/upload_images/6926359-04bb6e5729c50a48.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<\b>
+商家散点图：<\b>
+  ![](http://upload-images.jianshu.io/upload_images/6926359-d9f27d3f5bfe0c32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)<\b>
   
 ### 注意事项
 - 程序仅供学习之用，请下载24小时内删除
