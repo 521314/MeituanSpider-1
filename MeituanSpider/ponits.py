@@ -22,6 +22,8 @@ def city_point(city):
     data = response.json()
     # 获得城市边界坐标
     poly = data['districts'][0]['polyline']
+    # 不匹配岛屿
+    poly = re.sub('\|.*\|',';',poly)
     # 将坐标进行处理，获得四个角落的坐标，构造一个矩形网络
     poly_list1 = poly.split(';')
     poly_list2 = list(zip(*[a.split(',') for a in poly_list1]))
