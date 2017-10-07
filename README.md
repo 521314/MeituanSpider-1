@@ -3,7 +3,7 @@
 > - 根据城市遍历经纬度坐标，爬取手机版美团商家信息
 > - 城市边界数据来源于高德地图API
 > - 使用shapely筛选符合要求的坐标
-> - blog：[scrapy爬取美团美食商家信息](http://www.jianshu.com/p/a9a3f72347c1 "悬停显示")
+> - blog：[scrapy爬取美团美食商家信息](http://www.jianshu.com/p/a9a3f72347c1 "My blog")
 
 ### 运行环境
 
