@@ -3,7 +3,7 @@
 > - 根据城市遍历经纬度坐标，爬取手机版美团商家信息
 > - 城市边界数据来源于高德地图API
 > - 使用shapely筛选符合要求的坐标
-> - blog：[scrapy爬取美团美食商家信息](http://www.jianshu.com/p/a9a3f72347c1"悬停显示")
+> - blog：[scrapy爬取美团美食商家信息](http://www.jianshu.com/p/a9a3f72347c1 "悬停显示")
 
 ### 运行环境
 
@@ -94,6 +94,11 @@ scrapy crawl meituan
  <br><br><br>
 商家散点图：<br><br>
 ![](http://upload-images.jianshu.io/upload_images/6926359-d9f27d3f5bfe0c32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) <br><br><br> <br>
+
+商家词频：<br><br>
+![](http://upload-images.jianshu.io/upload_images/6926359-e4ed8b302e90cb63.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) <br><br><br> <br>
+
+
 ### 注意事项
 - 程序仅供学习之用，请下载24小时内删除
 - 程序已设置适当延迟，请合理使用
